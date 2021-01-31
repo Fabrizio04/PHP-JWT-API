@@ -5,9 +5,9 @@ Script esempio di Test per autenticazione JWT API
 Requisiti
 ------------
 
-[x] Ultima versione PHP
-[x] Composer (facoltativo)
-[x] JWT (Firebase)
+- Ultima versione PHP
+- Composer (facoltativo)
+- JWT (Firebase)
 
 Per installare la libreria php-jwt di Firebase
 
@@ -19,9 +19,9 @@ Può anche essere installata manualmente
 
 Link
 
-[x] [JWT](https://jwt.io)
-[x] [Composer](https://getcomposer.org/)
-[x] [Firebase php-jwt](https://github.com/firebase/php-jwt)
+- [JWT](https://jwt.io)
+- [Composer](https://getcomposer.org/)
+- [Firebase php-jwt](https://github.com/firebase/php-jwt)
 
 Esempio
 -------
