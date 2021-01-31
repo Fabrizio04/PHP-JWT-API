@@ -26,7 +26,7 @@ Link
 Esempio
 -------
 
-#### POST index.php
+#### POST JSON index.php
 
 ```json
 {
