@@ -21,7 +21,7 @@ Link
 
 - [JWT](https://jwt.io)
 - [Composer](https://getcomposer.org/)
-- [Firebase php-jwt](https://github.com/firebase/php-jwt)
+- [Firebase PHP-JWT](https://github.com/firebase/php-jwt)
 
 Esempio
 -------
